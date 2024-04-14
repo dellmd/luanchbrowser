@@ -8,5 +8,8 @@ public class SimpleCode {
 		 
 
 	}
-
+public void massage() {
+	System.out.println("Git got there");
+	
+}
 }
